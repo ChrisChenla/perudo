@@ -359,7 +359,7 @@ def liarsDiceRound(players, control, playerDiceCount, agents, gameStates, reward
     return [penalty, play]
 
 
-def updateQ(play, Qmat_1, Qmat_2, reward, alpha=0.2, discount=0.8):
+def updateQ(play, Qmat_1, Qmat_2, reward, alpha=0.3, discount=0.7):
     valueEachRound = []
     # Emat = pd.DataFrame(np.zeros((reward.shape[0], 2)), columns=['Raise', 'Call'])
 
@@ -374,12 +374,27 @@ def updateQ(play, Qmat_1, Qmat_2, reward, alpha=0.2, discount=0.8):
 
 
         if (np.random.uniform(0, 1, 1) < 0.5):
-            Qmat_1.loc[int(float(prevState)), preAction] = (1 - alpha) * Qmat_1.loc[int(float(prevState)), preAction] + alpha * (reward.loc[int(float(prevState)), (preAction, int(float(currState)))] +
-                                                            discount * max(Qmat_2.loc[int(float(currState)),]))
+            Qmat_1_star_action = Qmat_1.loc[int(float(currState)),].idxmax()
+            # print('tyuio')
+            # print(Qmat_1_star_action)
+            
+            
+            Qmat_1.loc[int(float(prevState)), preAction] = (1 - alpha) * Qmat_1.loc[
+                int(float(prevState)), preAction] + alpha * (reward.loc[int(float(prevState)), (
+            preAction, int(float(currState)))] +discount * Qmat_2.loc[
+                int(float(prevState)), Qmat_1_star_action])
+
+            # Qmat_1.loc[int(float(prevState)), preAction] = (1 - alpha) * Qmat_1.loc[
+            #     int(float(prevState)), preAction] + alpha * (reward.loc[int(float(prevState)), 
+            #     (preAction, int(float(currState)))] + discount * Qmat_2.loc[int(float(prevState)),Qmat_1_star_action])
         else:
+            
+            Qmat_2_star_action = Qmat_2.loc[int(float(currState)),].idxmax()
+
             Qmat_2.loc[int(float(prevState)), preAction] = (1 - alpha) * Qmat_2.loc[
                 int(float(prevState)), preAction] + alpha * (reward.loc[int(float(prevState)), (
-            preAction, int(float(currState)))] +discount * max(Qmat_1.loc[int(float(currState)),]))
+            preAction, int(float(currState)))] +discount * Qmat_1.loc[
+                int(float(prevState)), Qmat_2_star_action])
 
 
         oneStepReward = reward.loc[int(float(prevState)), (preAction, int(float(currState)))]
@@ -478,7 +493,7 @@ agents = [agent0, agent1]
 Qmat_1 = np.array([])
 Qmat_2 = np.array([])
 
-its = 1000
+its = 1
 
 winners = np.zeros((its,))
 times = 0
