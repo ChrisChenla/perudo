@@ -365,7 +365,6 @@ def updateQ(play, Qmat, reward, alpha=0.1, discount=0.9):
         # print('Before the value of q is {}'.format(q))
         for j in range (k, play.shape[0]):
             currState = play.loc[play.index[j], 'yState']
-
             prevState = play.loc[play.index[j - 1], 'yState']
             preAction = play.loc[play.index[j - 1], 'yAction']
 
