@@ -363,7 +363,6 @@ def updateQ(play, Qmat_1, Qmat_2, reward, alpha=0.3, discount=0.7):
     valueEachRound = []
     # Emat = pd.DataFrame(np.zeros((reward.shape[0], 2)), columns=['Raise', 'Call'])
 
-
     T = play.shape[0]
     for k in range(1, T):
         currState = play.loc[play.index[k], 'yState']
