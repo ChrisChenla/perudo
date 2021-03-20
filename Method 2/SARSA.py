@@ -246,11 +246,6 @@ def liarsDiceRound(players, control, playerDiceCount, agents, gameStates, reward
         #
         #     print("the special for a'")
 
-
-
-
-
-
         # print('the final one is Y ctrl {} and y state {} y action is {}'.format(yCtrl,yState,yAction))
         # updateQ(play, Qmat, reward)
 
@@ -491,9 +486,6 @@ def playLiarsDice(agents, players=4, numDice=6, auto=True, Qmat=np.array([]), tr
         if (train):
             Qmat, valueEachRound = updateQ(results[1], Qmat, reward)
             valueEachEpisode.append(valueEachRound)
-
-
-
 
         # if (printTrans):
             # play for round
