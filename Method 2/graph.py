@@ -58,7 +58,7 @@ td_lambda_9_1 = np.array([1.0, 1.0, 1.0, 1.0, 0.8, 0.8333333333333334, 0.7142857
 
 import xlsxwriter
 
-workbook = xlsxwriter.Workbook('arrays.xlsx')
+workbook = xlsxwriter.Workbook('ResultsN.xlsx')
 
 array0 = [q_lambda_1_9,q_lambda_2_8,q_lambda_3_7,q_lambda_4_6,q_lambda_5_5,q_lambda_6_4,q_lambda_7_3,q_lambda_8_2]
 array1 = [double_q_1_9,double_q_2_8,double_q_3_7,double_q_4_6,double_q_5_5,double_q_6_4,double_q_7_3,double_q_8_2]
@@ -67,9 +67,9 @@ array3 = [sarsa_1_9,sarsa_2_8,sarsa_3_7,sarsa_4_6]
 array4 = [sarsa_lambda_1_9,sarsa_lambda_2_8,sarsa_lambda_3_7]
 array5 = [td_lambda_1_9,td_lambda_2_8,td_lambda_3_7,td_lambda_4_6,td_lambda_5_5,td_lambda_6_4,td_lambda_7_3,td_lambda_8_2,td_lambda_9_1]
 
-array = [array1,array2,array3,array4,array5]
+array = [array0,array1,array2,array3,array4,array5]
 row = 0
-for i in range(5):
+for i in range(6):
     worksheet = workbook.add_worksheet()
     for col, data in enumerate(array[i]):
         
