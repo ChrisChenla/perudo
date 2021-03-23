@@ -400,40 +400,6 @@ def updateQ(play, Qmat, reward, alpha=0.1, discount=0.9):
     return Qmat, sum(valueEachRound)
 
 
-# def updateQ(play, Qmat, reward, alpha=0.1, discount=0.9,trace_decay=0.9):
-#     valueEachRound = []
-#     Emat = pd.DataFrame(np.zeros((reward.shape[0], 2)), columns=['Raise', 'Call'])
-#     # lastState = play.loc[play.index[-1], 'yState']
-#     for k in range(1, play.shape[0]):
-#         currState = play.loc[play.index[k], 'yState']
-#         prevState = play.loc[play.index[k - 1], 'yState']
-#
-#         currAction = play.loc[play.index[k], 'yAction']
-#         preAction = play.loc[play.index[k-1], 'yAction']
-#
-#         Emat.loc[int(float(currState)), currAction] = Emat.loc[int(float(prevState)), preAction] + 1
-#
-#         # print("The current is {} and previous is {}".format(currState,prevState))
-#
-#         # Qmat.loc[int(float(prevState)), preAction] = (1 - alpha) * Qmat.loc[int(float(prevState)), preAction] + alpha * (
-#         #             reward.loc[int(float(prevState)), (preAction, int(float(currState)))] + discount * max(
-#         #         Qmat.loc[int(float(currState)),]))
-#
-#         delta = reward.loc[int(float(prevState)), (preAction, int(float(currState)))]+ discount * (Qmat.loc[int(float(currState)),currAction]) - Qmat.loc[int(float(prevState)), preAction]
-#
-#         for index, row in Qmat.iterrows():
-#             Qmat.iloc[index, :] += alpha * delta * Emat.iloc[index, :]
-#             Emat.iloc[index, :] *= trace_decay * discount
-#
-#
-#         # Qmat.loc[int(float(prevState)), preAction] = Qmat.loc[int(float(prevState)), preAction] + delta * alpha * 1
-#
-#         oneStepReward = reward.loc[int(float(prevState)), (preAction, int(float(currState)))]
-#         valueEachRound.append(oneStepReward * discount ** (k - 1))
-#
-#     return Qmat, valueEachRound
-
-
 
 def playLiarsDice(agents, players=4, numDice=6, auto=True, Qmat=np.array([]), train=True, printTrans=False):
     ndice = np.array(np.repeat(numDice, players))
