@@ -53,9 +53,8 @@ def generateGameStates(nplayers, ndice, binSize=20):
     stateslist = np.tile(ndicelist, (nplayers, 1)).flatten()
     # print(stateslist)
     nplayerslist = [str(x) for x in range(1, nplayers + 1)]
-    # print(nplayerslist)
     combn = list(set(combinations(stateslist, nplayers)))
-    # print(combn)
+
     states = pd.DataFrame(combn, columns=nplayerslist)
     states = states.loc[~(states == 0).all(axis=1)]
     states['Total'] = states.sum(axis=1)
@@ -150,7 +149,6 @@ def liarsDiceRound(players, control, playerDiceCount, agents, gameStates, reward
 
     if (playerDiceCount[control]) > 0:
         pars = np.array([rolls[control], totalDice, diceValue, diceQuantity, p0State], dtype="object")
-        # agent.action = agentActionReslist
         agentActionReslist = agents[control](pars=pars, Qmat=Qmat)
 
         if (len(agentActionReslist) == 3):
@@ -160,7 +158,6 @@ def liarsDiceRound(players, control, playerDiceCount, agents, gameStates, reward
 
         if (control == 0 and (not (action is None))):
             playerDiceQty = rollTableFn(rolls[[0]]).loc['Total', diceValue]
-            # agent.action = agentActionReslist
 
             p0Action = agentActionReslist[0]
             probCat = calcProb(np.array([totalDice, playerDiceCount[0], diceQuantity, playerDiceQty, diceValue]))
@@ -223,8 +220,6 @@ def liarsDiceRound(players, control, playerDiceCount, agents, gameStates, reward
             if (verbose > 0):
                 print('Control pre is {} now is {}'.format(prev, control))
 
-# play = pd.DataFrame(np.hstack((yCtrl[:, None], yState[:, None], yAction[:, None])),
-#                     columns=['yCtrl', 'yState', 'yAction'])
         play = pd.DataFrame(np.hstack((yCtrl[:, None], yState[:, None], yAction[:, None])),
                     columns=['yCtrl', 'yState', 'yAction'])
 

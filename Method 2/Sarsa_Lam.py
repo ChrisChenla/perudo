@@ -198,12 +198,6 @@ def liarsDiceRound(players, control, playerDiceCount, agents, gameStates, reward
                 #     print("Player {} lost a die \n".format(prev))
 
                 # print("player", control, "lost a die")
-
-            # probCat = calcProb(np.array([totalDice, playerDiceCount[0], diceQuantity, playerDiceQty, diceValue]))
-            # p0State = np.array(gameStates[(gameStates.loc[:, 'Total'] == totalDice - 1) & (
-            #         gameStates.loc[:, 'p0'] == playerDiceCount[0] + penalty[0]) & (
-            #                                       gameStates.loc[:, 'prob_cat'] == probCat)].index.tolist())
-
             yCtrl = np.append(yCtrl, control)
             yState = np.append(yState, p0State)
             yAction = np.append(yAction, p0Action)
