@@ -163,7 +163,6 @@ def liarsDiceRound(players, control, playerDiceCount, agents, gameStates, reward
 
                     # print("player", control, "lost a die")
 
-
                 yCtrl = np.append(yCtrl, control)
                 yState = np.append(yState, p0State)
                 yAction = np.append(yAction, p0Action)
@@ -404,31 +403,5 @@ proplist = []
 a = generateGameStates(2,2,1)
 
 print(a)
-# for k in tqdm (range(its)):
-#     out = playLiarsDice(agents=agents, players=len(agents), numDice= 28, Qmat = Qmat, printTrans=False)
-#     winners[k] = out[0]
-#     # 21 29
-#     Qmat = out[1]
-#     if winners[k] == 0:
-#         times += 1
-#         proplist.append(times/(k+1))
-#     else:
-#         proplist.append(times / (k + 1))
-#
-#
-#
-# print(winners)
-# print(proplist)
-#
-#
-# unique, counts = np.unique(winners, return_counts=True)
-# print(np.asarray((unique, counts)).T)
-#
-# pd.set_option('display.max_rows', None)
-# pd.set_option('display.max_columns', None)
-# pd.set_option('display.width', None)
-# pd.set_option('display.max_colwidth', -1)
-#
-#
 
 

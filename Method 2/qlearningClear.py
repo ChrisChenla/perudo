@@ -290,10 +290,6 @@ def buildAgent(bluffProb, method="random"):
                 return ["Call", pars[2], pars[3]]
 
         if (bluff):
-            # print('I am not bluffing')
-            # print('total dice is {}'.format(pars[1]))
-            # print('The original is {} and {}'.format(pars[2],pars[3]))
-
             # newDiceValue = np.random.choice(np.arange(1, 7), 1)[0]
             newDiceValue = pars[2]
             newDiceQuantity = pars[3] + 1

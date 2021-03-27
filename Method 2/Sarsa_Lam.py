@@ -448,8 +448,6 @@ def playLiarsDice(agents, players=4, numDice=6, auto=True, Qmat=np.array([]), Em
             valueEachEpisode.append(valueEachRound)
 
 
-
-
         # if (printTrans):
             # play for round
             # print(play)
