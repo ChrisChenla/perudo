@@ -385,10 +385,6 @@ def playLiarsDice(agents,players = 4, numDice = 6, auto = True, Qmat = np.array(
         if (train):
             Qmat, valueEachRound = updateQ(results[1], Qmat, reward)
 
-
-
-
-
     # if (printTrans):
     #     # play.df = play
     #     print(play)
@@ -410,7 +406,8 @@ agent13 = buildAgent([1, 0], method="trueProb")
 
 
 agent1 = buildAgent([1,0], method="random")
-agent2 = buildAgent([1,0], method="random")
+agent2 = buildAgent([0.5,0.5], method="random")
+
 agent3 = buildAgent([1,0], method="random")
 agent4 = buildAgent([1,0], method="random")
 
@@ -421,9 +418,9 @@ agent6 = buildAgent([1, 0], method="randomV2")
 agent7 = buildAgent([1, 0], method="randomV2")
 agent8 = buildAgent([1, 0], method="randomV2")
 
-agents = [agent0, agent1]
+agents = [agent0, agent1,agent2]
 Qmat = np.array([])
-its = 20
+its = 1000
 
 winners = np.zeros((its,))
 times = 0
