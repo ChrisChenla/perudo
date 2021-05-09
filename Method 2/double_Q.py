@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import math
 import random
-# import sys
+import sys
 # np.set_printoptions(threshold=np.inf)
 # pars = [dice, totaldice, diceValue, diceQuantity, P0state]
 # x = [totalDice, playerDiceCount, diceQuantity, playerDiceQty)]
@@ -359,7 +359,7 @@ def liarsDiceRound(players, control, playerDiceCount, agents, gameStates, reward
     return [penalty, play]
 
 
-def updateQ(play, Qmat_1, Qmat_2, reward, alpha=0.3, discount=0.7):
+def updateQ(play, Qmat_1, Qmat_2, reward, alpha=0.1, discount=0.9):
     valueEachRound = []
     # Emat = pd.DataFrame(np.zeros((reward.shape[0], 2)), columns=['Raise', 'Call'])
 
@@ -492,26 +492,45 @@ agents = [agent0, agent1]
 Qmat_1 = np.array([])
 Qmat_2 = np.array([])
 
-its = 1
+its = 300
 
 winners = np.zeros((its,))
 times = 0
 proplist = []
+rewar_list = []
+episode_list = []
+import sys
+sys.stdout = open('double.txt', 'w')
 
-for k in tqdm(range(its)):
-    out = playLiarsDice(agents=agents, players=len(agents), numDice=5, Qmat_1=Qmat_1,Qmat_2=Qmat_2, printTrans=False)
+for k in tqdm (range(its)):
+    out,rewar,episode = playLiarsDice(agents=agents, players=len(agents), numDice= 5, Qmat = Qmat, printTrans=False)
     winners[k] = out[0]
-    # 21 29
-    Qmat_1 = out[1]
-    Qmat_2 = out[2]
+    Qmat = out[1]
+    print('one epsidode list is {}'.format(rewar))
+    print('lenth of step is  {}'.format(episode))
+
+    rewar_list.append(rewar)
+    episode_list.append(episode)
+
     if winners[k] == 0:
         times += 1
-        proplist.append(times / (k + 1))
+        proplist.append(times/(k+1))
     else:
         proplist.append(times / (k + 1))
+    if k == 100:
+        print('200 finish learning with average winning rate {}'.format(np.mean(proplist)))
+        print('200 finish learning with average epsiode {}'.format(np.mean(episode_list)))
+        print('200 finish learning with average acculative rewar {}'.format(np.mean(rewar_list)))
+        
+
+
 
 print(winners)
 print(proplist)
+print('finish with average winning rate {}'.format(np.mean(proplist)))
+print('finish with average epsiode {}'.format(np.mean(episode_list)))
+print('finish learning with average acculative rewar {}'.format(np.mean(rewar_list)))
+print(f'qtable is {Qmat}')
 
 unique, counts = np.unique(winners, return_counts=True)
 print(np.asarray((unique, counts)).T)
@@ -520,7 +539,6 @@ pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', None)
 pd.set_option('display.max_colwidth', -1)
-
 
 
 

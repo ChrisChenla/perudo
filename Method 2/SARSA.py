@@ -449,9 +449,9 @@ def playLiarsDice(agents, players=4, numDice=6, auto=True, Qmat=np.array([]), tr
 
         play = pd.concat([play, results[1]], axis=0, ignore_index=True)
 
-        if (train):
-            Qmat, valueEachRound = updateQ(results[1], Qmat, reward)
-            valueEachEpisode.append(valueEachRound)
+        # if (train):
+        #     Qmat, valueEachRound = updateQ(results[1], Qmat, reward)
+        #     valueEachEpisode.append(valueEachRound)
 
         # if (printTrans):
             # play for round
@@ -461,14 +461,15 @@ def playLiarsDice(agents, players=4, numDice=6, auto=True, Qmat=np.array([]), tr
     if (printTrans):
         # play for episode
         print(play)
-    print('Sum is')
-    print(sum(valueEachEpisode))
-    # if (train):
-    #     Qmat, valueEachRound = updateQ(play, Qmat, reward)
-    #     print('one step list is {}'.format(sum(valueEachRound)))
+    # print('Sum is')
+    # print(sum(valueEachEpisode))
+    if (train):
+        Qmat, valueEachRound = updateQ(play, Qmat, reward)
+        # print('one sum is  is {}'.format(sum(valueEachRound)))
+        # print(f'episode is {play.sh}')
         # print('the Q mat is {}'.format(Qmat))
 
-    return [np.where(ndice > 0)[0], Qmat]
+    return [np.where(ndice > 0)[0], Qmat],valueEachRound,play.shape[0]
 
 
 agent0 = buildAgent([0, 1], method="Qdecide")
@@ -488,28 +489,47 @@ agent6 = buildAgent([1, 0], method="randomV2")
 agent7 = buildAgent([1, 0], method="randomV2")
 agent8 = buildAgent([1, 0], method="randomV2")
 
-agents = [agent0, agent1]
+agents = [agent0, agent2]
 Qmat = np.array([])
-
-its = 2500
+rewar_list = []
+episode_list = []
+its = 300
+import sys
+sys.stdout = open('Sarsa.txt', 'w')
 
 winners = np.zeros((its,))
 times = 0
 proplist = []
 
-for k in tqdm(range(its)):
-    out = playLiarsDice(agents=agents, players=len(agents), numDice=5, Qmat=Qmat, printTrans=False)
+for k in tqdm (range(its)):
+    out,rewar,episode = playLiarsDice(agents=agents, players=len(agents), numDice= 5, Qmat = Qmat, printTrans=False)
     winners[k] = out[0]
-    # 21 29
     Qmat = out[1]
+    print('one epsidode list is {}'.format(rewar))
+    print('lenth of step is  {}'.format(episode))
+
+    rewar_list.append(rewar)
+    episode_list.append(episode)
+
     if winners[k] == 0:
         times += 1
-        proplist.append(times / (k + 1))
+        proplist.append(times/(k+1))
     else:
         proplist.append(times / (k + 1))
+    if k == 100:
+        print('200 finish learning with average winning rate {}'.format(np.mean(proplist)))
+        print('200 finish learning with average epsiode {}'.format(np.mean(episode_list)))
+        print('200 finish learning with average acculative rewar {}'.format(np.mean(rewar_list)))
+        
+
+
 
 print(winners)
 print(proplist)
+print('finish with average winning rate {}'.format(np.mean(proplist)))
+print('finish with average epsiode {}'.format(np.mean(episode_list)))
+print('finish learning with average acculative rewar {}'.format(np.mean(rewar_list)))
+print(f'qtable is {Qmat}')
 
 unique, counts = np.unique(winners, return_counts=True)
 print(np.asarray((unique, counts)).T)
@@ -518,7 +538,4 @@ pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', None)
 pd.set_option('display.max_colwidth', -1)
-
-
-
 
