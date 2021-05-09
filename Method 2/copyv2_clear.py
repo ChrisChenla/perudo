@@ -317,7 +317,7 @@ def buildAgent (bluffProb, method = "random"):
 
     return buildAgentFn
 
-def updateQ (play, Qmat, reward, alpha=0.1, discount=0.9):
+def updateQ (play, Qmat, reward, alpha=0.9, discount=0.1):
     valueEachRound = []
     for k in range(1, play.shape[0]):
         currState = play.loc[play.index[k],'yState']
@@ -332,7 +332,7 @@ def updateQ (play, Qmat, reward, alpha=0.1, discount=0.9):
 
     return Qmat,valueEachRound
 
-def updateSarsa (play, Qmat, reward, alpha=0.1, discount=0.9):
+def updateSarsa (play, Qmat, reward, alpha=0.9, discount=0.1):
     valueEachRound = []
     for k in range(1, play.shape[0]):
         currState = play.loc[play.index[k],'yState']
@@ -382,19 +382,18 @@ def playLiarsDice(agents,players = 4, numDice = 6, auto = True, Qmat = np.array(
                         ctrl = 0
         playersLeft = sum(ndice > 0)
         play = pd.concat([play,results[1]],axis=0,ignore_index=True)
-        if (train):
-            Qmat, valueEachRound = updateQ(results[1], Qmat, reward)
+        # if (train):
+        #     Qmat, valueEachRound = updateQ(results[1], Qmat, reward)
 
     # if (printTrans):
     #     # play.df = play
     #     print(play)
-    # if(train):
-    #     Qmat,valueEachRound = updateQ(play,Qmat,reward)
-    #     print('one step list is {}'.format(sum(valueEachRound)))
-        # print('the Q mat is {}'.format(Qmat))
+    if(train):
+        Qmat,valueEachRound = updateQ(play,Qmat,reward)
+        
 
 
-    return [np.where(ndice > 0)[0], Qmat]
+    return [np.where(ndice > 0)[0], Qmat], sum(valueEachRound),play.shape[0]
 
 
 agent0 = buildAgent([0, 1], method="Qdecide")
@@ -418,30 +417,47 @@ agent6 = buildAgent([1, 0], method="randomV2")
 agent7 = buildAgent([1, 0], method="randomV2")
 agent8 = buildAgent([1, 0], method="randomV2")
 
-agents = [agent0, agent1,agent2]
+agents = [agent0,agent2]
 Qmat = np.array([])
-its = 1000
+its = 300
 
 winners = np.zeros((its,))
 times = 0
 proplist = []
-
+rewar_list = []
+episode_list = []
+import sys
+sys.stdout = open('draft9_1.txt', 'w')
 
 for k in tqdm (range(its)):
-    out = playLiarsDice(agents=agents, players=len(agents), numDice= 3, Qmat = Qmat, printTrans=False)
+    out,rewar,episode = playLiarsDice(agents=agents, players=len(agents), numDice= 5, Qmat = Qmat, printTrans=False)
     winners[k] = out[0]
     Qmat = out[1]
+    print('one epsidode list is {}'.format(rewar))
+    print('lenth of step is  {}'.format(episode))
+
+    rewar_list.append(rewar)
+    episode_list.append(episode)
+
     if winners[k] == 0:
         times += 1
         proplist.append(times/(k+1))
     else:
         proplist.append(times / (k + 1))
+    if k == 100:
+        print('200 finish learning with average winning rate {}'.format(np.mean(proplist)))
+        print('200 finish learning with average epsiode {}'.format(np.mean(episode_list)))
+        print('200 finish learning with average acculative rewar {}'.format(np.mean(rewar_list)))
+        
 
 
 
 print(winners)
 print(proplist)
-
+print('finish with average winning rate {}'.format(np.mean(proplist)))
+print('finish with average epsiode {}'.format(np.mean(episode_list)))
+print('finish learning with average acculative rewar {}'.format(np.mean(rewar_list)))
+print(f'qtable is {Qmat}')
 
 unique, counts = np.unique(winners, return_counts=True)
 print(np.asarray((unique, counts)).T)
