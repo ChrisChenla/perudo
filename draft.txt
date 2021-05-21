@@ -1,1003 +1,1358 @@
-one epsidode list is -10.0
-lenth of step is  28
-one epsidode list is -10.0
-lenth of step is  23
-one epsidode list is 10.0
-lenth of step is  27
 one epsidode list is -12.0
-lenth of step is  26
-one epsidode list is 13.0
-lenth of step is  27
+lenth of step is  30
+one epsidode list is -10.0
+lenth of step is  31
+one epsidode list is 10.0
+lenth of step is  33
 one epsidode list is 12.0
-lenth of step is  27
-one epsidode list is 13.0
-lenth of step is  17
-one epsidode list is 14.0
-lenth of step is  15
-one epsidode list is -11.0
-lenth of step is  23
-one epsidode list is 11.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  22
-one epsidode list is 12.0
-lenth of step is  21
-one epsidode list is 14.0
-lenth of step is  10
-one epsidode list is 11.0
 lenth of step is  23
 one epsidode list is 10.0
+lenth of step is  34
+one epsidode list is 10.0
+lenth of step is  38
+one epsidode list is 12.0
 lenth of step is  24
 one epsidode list is 10.0
-lenth of step is  21
-one epsidode list is -10.0
-lenth of step is  21
+lenth of step is  38
 one epsidode list is 11.0
-lenth of step is  18
-one epsidode list is -13.0
-lenth of step is  17
-one epsidode list is 12.0
-lenth of step is  20
-one epsidode list is -10.0
-lenth of step is  22
-one epsidode list is 14.0
-lenth of step is  16
+lenth of step is  29
 one epsidode list is 11.0
-lenth of step is  21
-one epsidode list is -11.0
-lenth of step is  21
-one epsidode list is 11.0
-lenth of step is  26
-one epsidode list is -13.0
-lenth of step is  12
-one epsidode list is 11.0
-lenth of step is  22
-one epsidode list is -11.0
-lenth of step is  19
-one epsidode list is 13.0
-lenth of step is  15
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is -10.0
-lenth of step is  27
-one epsidode list is -10.0
 lenth of step is  29
 one epsidode list is 12.0
-lenth of step is  20
-one epsidode list is 11.0
-lenth of step is  18
-one epsidode list is 11.0
-lenth of step is  22
-one epsidode list is -10.0
-lenth of step is  23
-one epsidode list is -10.0
-lenth of step is  27
+lenth of step is  29
 one epsidode list is 12.0
-lenth of step is  21
+lenth of step is  32
 one epsidode list is -12.0
-lenth of step is  16
+lenth of step is  35
 one epsidode list is 10.0
-lenth of step is  21
+lenth of step is  32
+one epsidode list is -10.0
+lenth of step is  31
 one epsidode list is 10.0
-lenth of step is  24
+lenth of step is  33
 one epsidode list is 13.0
-lenth of step is  24
-one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is 12.0
-lenth of step is  25
-one epsidode list is 12.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 14.0
-lenth of step is  16
-one epsidode list is -10.0
-lenth of step is  26
-one epsidode list is 14.0
-lenth of step is  11
-one epsidode list is 11.0
-lenth of step is  18
-one epsidode list is 14.0
-lenth of step is  11
-one epsidode list is 12.0
-lenth of step is  16
-one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is 14.0
-lenth of step is  15
-one epsidode list is 14.0
-lenth of step is  14
-one epsidode list is 12.0
-lenth of step is  16
-one epsidode list is -10.0
-lenth of step is  26
-one epsidode list is 12.0
-lenth of step is  15
-one epsidode list is -10.0
 lenth of step is  26
 one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is 11.0
-lenth of step is  20
-one epsidode list is -12.0
-lenth of step is  22
-one epsidode list is 10.0
-lenth of step is  21
-one epsidode list is -10.0
 lenth of step is  30
 one epsidode list is 12.0
-lenth of step is  22
-one epsidode list is 11.0
-lenth of step is  21
-one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is 11.0
-lenth of step is  24
-one epsidode list is 13.0
-lenth of step is  17
-one epsidode list is -10.0
-lenth of step is  25
-one epsidode list is 11.0
-lenth of step is  25
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 11.0
-lenth of step is  24
-one epsidode list is 10.0
-lenth of step is  21
-one epsidode list is 11.0
-lenth of step is  21
-one epsidode list is 14.0
-lenth of step is  14
-one epsidode list is 11.0
-lenth of step is  24
-one epsidode list is 13.0
-lenth of step is  16
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is -12.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  21
-one epsidode list is 11.0
-lenth of step is  17
-one epsidode list is 10.0
-lenth of step is  22
-one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is 13.0
-lenth of step is  22
-one epsidode list is 13.0
-lenth of step is  23
-one epsidode list is 12.0
-lenth of step is  17
-one epsidode list is 13.0
-lenth of step is  23
-one epsidode list is -10.0
-lenth of step is  23
-one epsidode list is 14.0
-lenth of step is  13
-one epsidode list is 10.0
-lenth of step is  29
-one epsidode list is 11.0
-lenth of step is  22
-one epsidode list is 10.0
-lenth of step is  27
-one epsidode list is 13.0
-lenth of step is  16
-one epsidode list is 12.0
-lenth of step is  21
-one epsidode list is 14.0
-lenth of step is  17
-one epsidode list is 13.0
-lenth of step is  17
-one epsidode list is 13.0
-lenth of step is  20
-one epsidode list is 10.0
-lenth of step is  21
-one epsidode list is 14.0
-lenth of step is  16
-one epsidode list is 10.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  22
-one epsidode list is 10.0
-lenth of step is  25
-one epsidode list is -10.0
-lenth of step is  27
-one epsidode list is 12.0
-lenth of step is  15
-one epsidode list is 13.0
-lenth of step is  13
-one epsidode list is 13.0
-lenth of step is  16
-one epsidode list is 11.0
-lenth of step is  21
-one epsidode list is 13.0
-lenth of step is  22
-one epsidode list is -12.0
-lenth of step is  24
-one epsidode list is 10.0
-lenth of step is  24
-one epsidode list is 12.0
-lenth of step is  16
+lenth of step is  31
 one epsidode list is -11.0
-lenth of step is  26
-one epsidode list is 13.0
-lenth of step is  17
-one epsidode list is -11.0
-lenth of step is  24
-one epsidode list is 13.0
-lenth of step is  22
-one epsidode list is 10.0
 lenth of step is  28
-one epsidode list is -12.0
-lenth of step is  21
-one epsidode list is 10.0
-lenth of step is  23
-one epsidode list is 12.0
-lenth of step is  21
-one epsidode list is 12.0
-lenth of step is  25
-one epsidode list is 10.0
-lenth of step is  25
-one epsidode list is 13.0
-lenth of step is  19
-one epsidode list is 13.0
-lenth of step is  18
-one epsidode list is 12.0
-lenth of step is  17
-one epsidode list is 13.0
-lenth of step is  20
-one epsidode list is -11.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 10.0
-lenth of step is  25
 one epsidode list is 11.0
-lenth of step is  24
-one epsidode list is 13.0
-lenth of step is  20
+lenth of step is  38
 one epsidode list is 10.0
-lenth of step is  21
+lenth of step is  31
 one epsidode list is 12.0
-lenth of step is  22
-one epsidode list is 10.0
-lenth of step is  22
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 12.0
-lenth of step is  18
-one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is 13.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 14.0
-lenth of step is  12
-one epsidode list is 12.0
-lenth of step is  18
-one epsidode list is 10.0
-lenth of step is  22
-one epsidode list is 14.0
-lenth of step is  13
-one epsidode list is 11.0
-lenth of step is  22
-one epsidode list is 13.0
-lenth of step is  18
-one epsidode list is -10.0
-lenth of step is  20
-one epsidode list is 13.0
-lenth of step is  14
-one epsidode list is 10.0
-lenth of step is  23
-one epsidode list is 13.0
-lenth of step is  16
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 10.0
-lenth of step is  24
+lenth of step is  26
 one epsidode list is -13.0
-lenth of step is  18
-one epsidode list is 14.0
-lenth of step is  17
-one epsidode list is 14.0
-lenth of step is  20
-one epsidode list is -10.0
-lenth of step is  26
-one epsidode list is 10.0
-lenth of step is  26
-one epsidode list is -10.0
-lenth of step is  29
-one epsidode list is 10.0
-lenth of step is  23
+lenth of step is  24
 one epsidode list is 12.0
-lenth of step is  17
+lenth of step is  25
+one epsidode list is 12.0
+lenth of step is  31
+one epsidode list is 12.0
+lenth of step is  30
+one epsidode list is 11.0
+lenth of step is  32
+one epsidode list is -12.0
+lenth of step is  25
+one epsidode list is 12.0
+lenth of step is  26
+one epsidode list is -11.0
+lenth of step is  36
 one epsidode list is 10.0
+lenth of step is  33
+one epsidode list is 13.0
+lenth of step is  27
+one epsidode list is 12.0
+lenth of step is  27
+one epsidode list is 13.0
+lenth of step is  24
+one epsidode list is 12.0
+lenth of step is  30
+one epsidode list is -10.0
+lenth of step is  40
+one epsidode list is -10.0
+lenth of step is  37
+one epsidode list is -11.0
+lenth of step is  36
+one epsidode list is -10.0
+lenth of step is  34
+one epsidode list is 11.0
+lenth of step is  29
+one epsidode list is -12.0
+lenth of step is  26
+one epsidode list is 12.0
+lenth of step is  34
+one epsidode list is 11.0
+lenth of step is  30
+one epsidode list is 13.0
+lenth of step is  27
+one epsidode list is 12.0
+lenth of step is  32
+one epsidode list is 12.0
+lenth of step is  24
+one epsidode list is -10.0
+lenth of step is  37
+one epsidode list is -10.0
+lenth of step is  31
+one epsidode list is 13.0
 lenth of step is  24
 one epsidode list is 14.0
-lenth of step is  14
+lenth of step is  20
+one epsidode list is -13.0
+lenth of step is  22
 one epsidode list is -10.0
 lenth of step is  33
 one epsidode list is 13.0
-lenth of step is  17
-one epsidode list is 13.0
-lenth of step is  23
-one epsidode list is 12.0
-lenth of step is  26
+lenth of step is  24
 one epsidode list is -10.0
-lenth of step is  27
-one epsidode list is 10.0
-lenth of step is  25
-one epsidode list is -11.0
-lenth of step is  24
-one epsidode list is 12.0
-lenth of step is  18
-one epsidode list is 14.0
-lenth of step is  13
-one epsidode list is 12.0
-lenth of step is  23
-one epsidode list is 14.0
-lenth of step is  19
-one epsidode list is 10.0
-lenth of step is  25
-one epsidode list is 13.0
-lenth of step is  19
-one epsidode list is 12.0
-lenth of step is  17
+lenth of step is  39
 one epsidode list is 11.0
-lenth of step is  18
-one epsidode list is 13.0
-lenth of step is  19
-one epsidode list is 12.0
-lenth of step is  24
-one epsidode list is 14.0
-lenth of step is  14
-one epsidode list is 12.0
-lenth of step is  23
-one epsidode list is 12.0
-lenth of step is  17
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 10.0
-lenth of step is  26
-one epsidode list is -13.0
-lenth of step is  17
+lenth of step is  36
 one epsidode list is 11.0
-lenth of step is  24
-one epsidode list is 11.0
-lenth of step is  25
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 10.0
 lenth of step is  28
 one epsidode list is 10.0
-lenth of step is  21
-one epsidode list is 10.0
-lenth of step is  22
-one epsidode list is 10.0
-lenth of step is  22
+lenth of step is  37
 one epsidode list is 12.0
-lenth of step is  16
-one epsidode list is -14.0
-lenth of step is  16
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 10.0
-lenth of step is  22
-one epsidode list is 12.0
-lenth of step is  25
-one epsidode list is 12.0
-lenth of step is  22
-one epsidode list is -12.0
-lenth of step is  16
-one epsidode list is -10.0
-lenth of step is  22
-one epsidode list is 13.0
-lenth of step is  20
-200 finish learning with average winning rate 0.7284103703098651
-200 finish learning with average epsiode 20.791044776119403
-200 finish learning with average acculative rewar 7.298507462686567
-one epsidode list is 12.0
-lenth of step is  18
-one epsidode list is 10.0
-lenth of step is  26
-one epsidode list is 12.0
-lenth of step is  18
-one epsidode list is 12.0
-lenth of step is  15
-one epsidode list is 11.0
-lenth of step is  22
-one epsidode list is 11.0
-lenth of step is  20
-one epsidode list is 11.0
-lenth of step is  22
-one epsidode list is -11.0
-lenth of step is  23
-one epsidode list is 12.0
-lenth of step is  14
-one epsidode list is -10.0
-lenth of step is  20
-one epsidode list is -11.0
-lenth of step is  19
-one epsidode list is 11.0
-lenth of step is  19
-one epsidode list is 10.0
-lenth of step is  26
-one epsidode list is 12.0
-lenth of step is  27
-one epsidode list is 10.0
-lenth of step is  25
-one epsidode list is 10.0
-lenth of step is  23
-one epsidode list is -11.0
-lenth of step is  25
-one epsidode list is 10.0
 lenth of step is  23
 one epsidode list is 11.0
-lenth of step is  20
-one epsidode list is -12.0
-lenth of step is  24
-one epsidode list is 13.0
-lenth of step is  18
-one epsidode list is 13.0
-lenth of step is  23
-one epsidode list is -12.0
-lenth of step is  16
-one epsidode list is -11.0
-lenth of step is  26
-one epsidode list is 10.0
-lenth of step is  24
-one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is 11.0
-lenth of step is  26
-one epsidode list is 14.0
-lenth of step is  17
-one epsidode list is -12.0
-lenth of step is  24
+lenth of step is  30
 one epsidode list is -13.0
-lenth of step is  19
+lenth of step is  33
+one epsidode list is 13.0
+lenth of step is  22
+one epsidode list is 14.0
+lenth of step is  23
+one epsidode list is 10.0
+lenth of step is  34
+one epsidode list is 13.0
+lenth of step is  22
+one epsidode list is 12.0
+lenth of step is  29
+one epsidode list is 13.0
+lenth of step is  27
+one epsidode list is 10.0
+lenth of step is  45
+one epsidode list is 13.0
+lenth of step is  21
+one epsidode list is 11.0
+lenth of step is  39
+one epsidode list is 12.0
+lenth of step is  26
+one epsidode list is 13.0
+lenth of step is  26
+one epsidode list is 10.0
+lenth of step is  35
+one epsidode list is -11.0
+lenth of step is  29
+one epsidode list is 12.0
+lenth of step is  30
+one epsidode list is -10.0
+lenth of step is  29
+one epsidode list is 13.0
+lenth of step is  26
+one epsidode list is -10.0
+lenth of step is  34
+one epsidode list is -13.0
+lenth of step is  27
+one epsidode list is 11.0
+lenth of step is  30
+one epsidode list is 13.0
+lenth of step is  21
+one epsidode list is 11.0
+lenth of step is  35
+one epsidode list is -12.0
+lenth of step is  26
+one epsidode list is 14.0
+lenth of step is  25
+one epsidode list is 11.0
+lenth of step is  25
+one epsidode list is -10.0
+lenth of step is  33
+one epsidode list is 10.0
+lenth of step is  38
+one epsidode list is 11.0
+lenth of step is  34
+one epsidode list is 13.0
+lenth of step is  24
+one epsidode list is 13.0
+lenth of step is  22
 one epsidode list is -12.0
 lenth of step is  23
 one epsidode list is 11.0
+lenth of step is  30
+one epsidode list is 10.0
+lenth of step is  34
+one epsidode list is 13.0
+lenth of step is  22
+one epsidode list is 14.0
 lenth of step is  18
-one epsidode list is 13.0
-lenth of step is  15
-one epsidode list is 13.0
-lenth of step is  14
+one epsidode list is 10.0
+lenth of step is  33
+one epsidode list is -10.0
+lenth of step is  37
 one epsidode list is 12.0
-lenth of step is  23
+lenth of step is  26
+one epsidode list is 12.0
+lenth of step is  28
+one epsidode list is -10.0
+lenth of step is  35
+one epsidode list is -13.0
+lenth of step is  21
+200 finish learning with average winning rate 0.7075332766287628
+200 finish learning with average epsiode 29.613861386138613
+200 finish learning with average acculative rewar 5.158415841584159
+one epsidode list is 11.0
+lenth of step is  30
+one epsidode list is -12.0
+lenth of step is  24
 one epsidode list is 13.0
-lenth of step is  13
-one epsidode list is 14.0
-lenth of step is  15
-one epsidode list is 14.0
-lenth of step is  17
-one epsidode list is 13.0
-lenth of step is  15
-one epsidode list is 10.0
-lenth of step is  29
-one epsidode list is 10.0
+lenth of step is  21
+one epsidode list is 11.0
+lenth of step is  35
+one epsidode list is 12.0
+lenth of step is  30
+one epsidode list is -10.0
+lenth of step is  37
+one epsidode list is -12.0
+lenth of step is  26
+one epsidode list is -11.0
 lenth of step is  27
 one epsidode list is -10.0
+lenth of step is  35
+one epsidode list is -11.0
+lenth of step is  32
+one epsidode list is 12.0
+lenth of step is  33
+one epsidode list is 13.0
+lenth of step is  30
+one epsidode list is 14.0
+lenth of step is  21
+one epsidode list is 12.0
+lenth of step is  26
+one epsidode list is 12.0
+lenth of step is  32
+one epsidode list is -11.0
+lenth of step is  35
+one epsidode list is -11.0
+lenth of step is  34
+one epsidode list is 12.0
+lenth of step is  28
+one epsidode list is 10.0
+lenth of step is  35
+one epsidode list is 11.0
 lenth of step is  28
 one epsidode list is 11.0
-lenth of step is  19
-one epsidode list is -10.0
-lenth of step is  23
-one epsidode list is 10.0
-lenth of step is  27
-one epsidode list is 10.0
-lenth of step is  29
-one epsidode list is -12.0
-lenth of step is  16
+lenth of step is  30
 one epsidode list is 13.0
-lenth of step is  24
-one epsidode list is 14.0
-lenth of step is  14
-one epsidode list is 11.0
-lenth of step is  21
-one epsidode list is 13.0
-lenth of step is  16
-one epsidode list is 14.0
-lenth of step is  13
-one epsidode list is 14.0
-lenth of step is  16
-one epsidode list is 10.0
-lenth of step is  23
-one epsidode list is 13.0
-lenth of step is  20
-one epsidode list is 11.0
-lenth of step is  17
-one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is 13.0
-lenth of step is  16
+lenth of step is  28
+one epsidode list is -11.0
+lenth of step is  31
 one epsidode list is 12.0
-lenth of step is  16
-one epsidode list is 11.0
-lenth of step is  25
-one epsidode list is 14.0
-lenth of step is  13
-one epsidode list is 11.0
+lenth of step is  29
+one epsidode list is 13.0
 lenth of step is  19
-one epsidode list is -10.0
-lenth of step is  18
-one epsidode list is 13.0
-lenth of step is  15
-one epsidode list is 10.0
-lenth of step is  25
-one epsidode list is 13.0
-lenth of step is  24
-one epsidode list is 14.0
-lenth of step is  14
-one epsidode list is 13.0
-lenth of step is  22
-one epsidode list is 14.0
-lenth of step is  20
-one epsidode list is 14.0
-lenth of step is  13
-one epsidode list is 11.0
-lenth of step is  21
-one epsidode list is 11.0
-lenth of step is  25
+one epsidode list is 12.0
+lenth of step is  28
 one epsidode list is 11.0
 lenth of step is  29
+one epsidode list is 12.0
+lenth of step is  25
 one epsidode list is 11.0
+lenth of step is  28
+one epsidode list is 13.0
+lenth of step is  22
+one epsidode list is -10.0
+lenth of step is  36
+one epsidode list is 12.0
+lenth of step is  29
+one epsidode list is -13.0
+lenth of step is  21
+one epsidode list is 11.0
+lenth of step is  32
+one epsidode list is 13.0
 lenth of step is  24
-one epsidode list is 14.0
-lenth of step is  11
-one epsidode list is 11.0
-lenth of step is  22
-one epsidode list is 14.0
-lenth of step is  16
-one epsidode list is 11.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  26
-one epsidode list is 12.0
-lenth of step is  22
-one epsidode list is 11.0
-lenth of step is  22
-one epsidode list is 14.0
-lenth of step is  12
-one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is 11.0
-lenth of step is  22
-one epsidode list is 12.0
-lenth of step is  20
-one epsidode list is 13.0
-lenth of step is  22
-one epsidode list is 13.0
-lenth of step is  16
 one epsidode list is -12.0
 lenth of step is  26
 one epsidode list is -13.0
 lenth of step is  21
-one epsidode list is -10.0
-lenth of step is  25
-one epsidode list is 14.0
-lenth of step is  12
-one epsidode list is 14.0
-lenth of step is  13
-one epsidode list is 12.0
-lenth of step is  15
-one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is -10.0
-lenth of step is  22
-one epsidode list is 11.0
-lenth of step is  20
-one epsidode list is 10.0
-lenth of step is  22
 one epsidode list is 13.0
-lenth of step is  16
-one epsidode list is 13.0
-lenth of step is  18
-one epsidode list is 11.0
-lenth of step is  20
-one epsidode list is -10.0
-lenth of step is  29
-one epsidode list is 12.0
-lenth of step is  20
-one epsidode list is 10.0
 lenth of step is  21
-one epsidode list is -10.0
+one epsidode list is 11.0
+lenth of step is  26
+one epsidode list is 11.0
+lenth of step is  29
+one epsidode list is 13.0
+lenth of step is  22
+one epsidode list is 13.0
 lenth of step is  24
-one epsidode list is 12.0
-lenth of step is  23
-one epsidode list is 10.0
-lenth of step is  24
-one epsidode list is -10.0
+one epsidode list is 11.0
 lenth of step is  27
-one epsidode list is 14.0
-lenth of step is  16
-one epsidode list is 10.0
-lenth of step is  26
-one epsidode list is -10.0
-lenth of step is  25
-one epsidode list is -10.0
-lenth of step is  26
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 13.0
-lenth of step is  14
-one epsidode list is 12.0
-lenth of step is  20
-one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is -10.0
-lenth of step is  22
-one epsidode list is 12.0
-lenth of step is  23
-one epsidode list is 12.0
-lenth of step is  29
-one epsidode list is 10.0
-lenth of step is  23
-one epsidode list is 12.0
-lenth of step is  21
-one epsidode list is -13.0
-lenth of step is  18
-one epsidode list is 13.0
-lenth of step is  16
-one epsidode list is 12.0
-lenth of step is  21
-one epsidode list is -10.0
-lenth of step is  24
-one epsidode list is -10.0
-lenth of step is  28
-one epsidode list is 12.0
-lenth of step is  15
-one epsidode list is 12.0
-lenth of step is  21
-one epsidode list is 13.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  22
-one epsidode list is -11.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 10.0
-lenth of step is  29
-one epsidode list is -11.0
-lenth of step is  22
-one epsidode list is 13.0
-lenth of step is  21
-one epsidode list is 13.0
-lenth of step is  21
-one epsidode list is 13.0
-lenth of step is  15
-one epsidode list is -14.0
-lenth of step is  16
-one epsidode list is 12.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  16
-one epsidode list is 14.0
-lenth of step is  16
-one epsidode list is -11.0
-lenth of step is  24
-one epsidode list is 12.0
-lenth of step is  22
-one epsidode list is 10.0
-lenth of step is  22
-one epsidode list is 14.0
-lenth of step is  21
-one epsidode list is 13.0
-lenth of step is  15
-one epsidode list is -11.0
-lenth of step is  21
-one epsidode list is -11.0
-lenth of step is  22
-one epsidode list is -12.0
-lenth of step is  24
-one epsidode list is 13.0
-lenth of step is  18
-one epsidode list is 12.0
-lenth of step is  15
-one epsidode list is -10.0
-lenth of step is  26
-one epsidode list is -11.0
-lenth of step is  20
-one epsidode list is -10.0
-lenth of step is  22
-one epsidode list is 12.0
-lenth of step is  25
-one epsidode list is -10.0
-lenth of step is  21
-one epsidode list is -11.0
-lenth of step is  26
-one epsidode list is -10.0
-lenth of step is  22
-one epsidode list is 12.0
-lenth of step is  17
-one epsidode list is 13.0
-lenth of step is  22
-one epsidode list is -12.0
-lenth of step is  19
-one epsidode list is 12.0
-lenth of step is  15
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 10.0
-lenth of step is  24
-one epsidode list is 10.0
-lenth of step is  26
-one epsidode list is 12.0
-lenth of step is  24
-one epsidode list is 14.0
-lenth of step is  11
 one epsidode list is 12.0
 lenth of step is  27
-one epsidode list is 11.0
-lenth of step is  28
-one epsidode list is 12.0
-lenth of step is  23
-one epsidode list is -12.0
-lenth of step is  20
-one epsidode list is 11.0
-lenth of step is  22
-one epsidode list is 10.0
-lenth of step is  25
-one epsidode list is 10.0
-lenth of step is  24
-one epsidode list is -13.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  28
-one epsidode list is 13.0
-lenth of step is  21
-one epsidode list is 12.0
-lenth of step is  19
-one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is 13.0
-lenth of step is  15
-one epsidode list is 14.0
-lenth of step is  22
-one epsidode list is -14.0
-lenth of step is  15
-one epsidode list is -10.0
-lenth of step is  23
-one epsidode list is -11.0
-lenth of step is  22
-one epsidode list is 11.0
-lenth of step is  24
-one epsidode list is 12.0
-lenth of step is  23
-one epsidode list is 10.0
-lenth of step is  26
-one epsidode list is 11.0
-lenth of step is  26
-one epsidode list is 11.0
-lenth of step is  20
-one epsidode list is 12.0
-lenth of step is  24
-one epsidode list is 12.0
-lenth of step is  24
-one epsidode list is 13.0
-lenth of step is  19
-one epsidode list is 10.0
-lenth of step is  24
-one epsidode list is 13.0
-lenth of step is  21
-one epsidode list is 11.0
-lenth of step is  21
-one epsidode list is 10.0
-lenth of step is  25
-one epsidode list is 13.0
-lenth of step is  17
 one epsidode list is 10.0
 lenth of step is  31
-one epsidode list is -14.0
-lenth of step is  16
+one epsidode list is 13.0
+lenth of step is  29
+one epsidode list is 12.0
+lenth of step is  27
+one epsidode list is -13.0
+lenth of step is  22
+one epsidode list is 12.0
+lenth of step is  25
+one epsidode list is -11.0
+lenth of step is  32
+one epsidode list is 13.0
+lenth of step is  19
+one epsidode list is 10.0
+lenth of step is  36
+one epsidode list is 12.0
+lenth of step is  31
+one epsidode list is 10.0
+lenth of step is  37
+one epsidode list is 13.0
+lenth of step is  23
+one epsidode list is 11.0
+lenth of step is  34
 one epsidode list is -10.0
-lenth of step is  24
-one epsidode list is -14.0
-lenth of step is  15
-one epsidode list is -10.0
+lenth of step is  36
+one epsidode list is 10.0
+lenth of step is  30
+one epsidode list is 10.0
+lenth of step is  31
+one epsidode list is 13.0
 lenth of step is  26
 one epsidode list is 10.0
-lenth of step is  28
-one epsidode list is -14.0
-lenth of step is  15
-one epsidode list is -10.0
-lenth of step is  25
-one epsidode list is 14.0
-lenth of step is  15
-one epsidode list is 13.0
-lenth of step is  16
+lenth of step is  35
 one epsidode list is 11.0
-lenth of step is  20
+lenth of step is  33
+one epsidode list is -13.0
+lenth of step is  23
+one epsidode list is 12.0
+lenth of step is  27
+one epsidode list is -10.0
+lenth of step is  34
+one epsidode list is 12.0
+lenth of step is  26
+one epsidode list is 12.0
+lenth of step is  24
+one epsidode list is 11.0
+lenth of step is  31
+one epsidode list is 12.0
+lenth of step is  27
+one epsidode list is 12.0
+lenth of step is  26
 one epsidode list is 13.0
-lenth of step is  21
-one epsidode list is -11.0
+lenth of step is  26
+one epsidode list is 12.0
+lenth of step is  29
+one epsidode list is 12.0
+lenth of step is  26
+one epsidode list is 12.0
+lenth of step is  32
+one epsidode list is -10.0
+lenth of step is  33
+one epsidode list is 11.0
+lenth of step is  27
+one epsidode list is 13.0
+lenth of step is  26
+one epsidode list is 12.0
+lenth of step is  24
+one epsidode list is 10.0
+lenth of step is  32
+one epsidode list is 13.0
 lenth of step is  22
+one epsidode list is -10.0
+lenth of step is  29
+one epsidode list is -10.0
+lenth of step is  31
+one epsidode list is -14.0
+lenth of step is  19
+one epsidode list is 12.0
+lenth of step is  30
+one epsidode list is 12.0
+lenth of step is  30
+one epsidode list is 13.0
+lenth of step is  25
+one epsidode list is -10.0
+lenth of step is  30
+one epsidode list is 10.0
+lenth of step is  37
+one epsidode list is 11.0
+lenth of step is  32
+one epsidode list is 12.0
+lenth of step is  35
+one epsidode list is 11.0
+lenth of step is  29
+one epsidode list is 11.0
+lenth of step is  30
+one epsidode list is -10.0
+lenth of step is  35
 one epsidode list is 11.0
 lenth of step is  25
 one epsidode list is 10.0
+lenth of step is  34
+one epsidode list is 14.0
+lenth of step is  22
+one epsidode list is 11.0
+lenth of step is  26
+one epsidode list is 11.0
+lenth of step is  32
+one epsidode list is 14.0
+lenth of step is  20
+one epsidode list is 13.0
+lenth of step is  32
+one epsidode list is -13.0
+lenth of step is  23
+one epsidode list is 11.0
+lenth of step is  27
+one epsidode list is 14.0
+lenth of step is  19
+one epsidode list is 12.0
+lenth of step is  30
+one epsidode list is 12.0
+lenth of step is  23
+one epsidode list is 13.0
+lenth of step is  23
+one epsidode list is 10.0
+lenth of step is  29
+one epsidode list is 10.0
+lenth of step is  38
+one epsidode list is 11.0
+lenth of step is  29
+one epsidode list is 11.0
+lenth of step is  27
+one epsidode list is 13.0
+lenth of step is  28
+one epsidode list is 10.0
+lenth of step is  33
+one epsidode list is 13.0
+lenth of step is  26
+one epsidode list is -11.0
+lenth of step is  28
+one epsidode list is 10.0
+lenth of step is  33
+one epsidode list is -10.0
+lenth of step is  28
+one epsidode list is -11.0
 lenth of step is  26
 one epsidode list is 13.0
 lenth of step is  19
-one epsidode list is 14.0
-lenth of step is  12
-one epsidode list is -10.0
-lenth of step is  27
 one epsidode list is 13.0
-lenth of step is  17
-one epsidode list is 11.0
-lenth of step is  18
-one epsidode list is 12.0
-lenth of step is  24
-one epsidode list is 12.0
 lenth of step is  21
-one epsidode list is 11.0
-lenth of step is  24
-one epsidode list is 10.0
-lenth of step is  22
-one epsidode list is 14.0
-lenth of step is  16
-one epsidode list is 12.0
-lenth of step is  24
 one epsidode list is 13.0
-lenth of step is  17
+lenth of step is  19
+one epsidode list is -10.0
+lenth of step is  31
+one epsidode list is 10.0
+lenth of step is  35
+one epsidode list is 13.0
+lenth of step is  29
+one epsidode list is 13.0
+lenth of step is  24
+one epsidode list is 11.0
+lenth of step is  30
+one epsidode list is 10.0
+lenth of step is  38
+one epsidode list is 11.0
+lenth of step is  31
+one epsidode list is 13.0
+lenth of step is  24
+one epsidode list is 12.0
+lenth of step is  30
+one epsidode list is -10.0
+lenth of step is  33
+one epsidode list is 13.0
+lenth of step is  21
+one epsidode list is 14.0
+lenth of step is  27
+one epsidode list is -10.0
+lenth of step is  34
+one epsidode list is 10.0
+lenth of step is  32
+one epsidode list is 10.0
+lenth of step is  31
+one epsidode list is -10.0
+lenth of step is  32
+one epsidode list is 10.0
+lenth of step is  34
 one epsidode list is 13.0
 lenth of step is  23
 one epsidode list is -11.0
 lenth of step is  30
 one epsidode list is 10.0
-lenth of step is  25
-one epsidode list is 13.0
-lenth of step is  23
-one epsidode list is 13.0
-lenth of step is  17
-one epsidode list is 10.0
-lenth of step is  24
-one epsidode list is 14.0
-lenth of step is  17
-one epsidode list is 12.0
-lenth of step is  18
-one epsidode list is 13.0
-lenth of step is  19
-one epsidode list is 14.0
-lenth of step is  13
-one epsidode list is -11.0
-lenth of step is  23
-one epsidode list is 11.0
-lenth of step is  27
-one epsidode list is 10.0
-lenth of step is  26
-one epsidode list is 12.0
-lenth of step is  17
-one epsidode list is 11.0
-lenth of step is  18
-one epsidode list is 10.0
-lenth of step is  25
+lenth of step is  30
 one epsidode list is 12.0
 lenth of step is  26
 one epsidode list is 10.0
-lenth of step is  21
+lenth of step is  30
 one epsidode list is 10.0
-lenth of step is  22
-one epsidode list is -10.0
-lenth of step is  29
-one epsidode list is 13.0
-lenth of step is  21
-one epsidode list is -11.0
-lenth of step is  25
-one epsidode list is 13.0
-lenth of step is  23
-one epsidode list is 11.0
-lenth of step is  25
-one epsidode list is 13.0
-lenth of step is  18
-one epsidode list is 11.0
-lenth of step is  21
-one epsidode list is 13.0
-lenth of step is  26
-one epsidode list is 12.0
-lenth of step is  27
-one epsidode list is 12.0
-lenth of step is  16
-one epsidode list is 11.0
-lenth of step is  26
-one epsidode list is 10.0
-lenth of step is  29
-one epsidode list is 12.0
-lenth of step is  26
-one epsidode list is 10.0
-lenth of step is  25
-one epsidode list is -12.0
-lenth of step is  23
-one epsidode list is -10.0
-lenth of step is  29
-one epsidode list is 10.0
-lenth of step is  29
-one epsidode list is 13.0
-lenth of step is  17
-one epsidode list is 10.0
-lenth of step is  22
-one epsidode list is 10.0
-lenth of step is  22
-one epsidode list is -10.0
-lenth of step is  23
-one epsidode list is -10.0
-lenth of step is  25
-one epsidode list is -12.0
-lenth of step is  19
-one epsidode list is 11.0
-lenth of step is  23
-one epsidode list is -11.0
-lenth of step is  24
-one epsidode list is 12.0
-lenth of step is  20
-one epsidode list is 13.0
-lenth of step is  14
-one epsidode list is -10.0
-lenth of step is  23
-one epsidode list is 13.0
-lenth of step is  19
-one epsidode list is 12.0
-lenth of step is  21
-one epsidode list is 12.0
-lenth of step is  24
-one epsidode list is 11.0
-lenth of step is  25
-one epsidode list is 13.0
-lenth of step is  24
-one epsidode list is 13.0
-lenth of step is  20
-one epsidode list is 11.0
-lenth of step is  20
-one epsidode list is 11.0
-lenth of step is  21
-one epsidode list is 10.0
-lenth of step is  25
-one epsidode list is 14.0
-lenth of step is  12
-one epsidode list is 13.0
-lenth of step is  19
-one epsidode list is 13.0
-lenth of step is  12
-one epsidode list is -12.0
-lenth of step is  19
-one epsidode list is -10.0
-lenth of step is  22
-one epsidode list is 13.0
-lenth of step is  15
-one epsidode list is 12.0
-lenth of step is  26
+lenth of step is  35
 one epsidode list is -13.0
-lenth of step is  19
-one epsidode list is 12.0
 lenth of step is  21
-one epsidode list is -11.0
-lenth of step is  25
-one epsidode list is -12.0
-lenth of step is  23
-one epsidode list is 14.0
-lenth of step is  13
-one epsidode list is -11.0
-lenth of step is  23
+one epsidode list is 13.0
+lenth of step is  24
+one epsidode list is -13.0
+lenth of step is  32
 one epsidode list is 10.0
-lenth of step is  21
-one epsidode list is 14.0
-lenth of step is  19
+lenth of step is  34
 one epsidode list is 13.0
-lenth of step is  17
-one epsidode list is -12.0
-lenth of step is  18
-one epsidode list is 14.0
-lenth of step is  19
-one epsidode list is 12.0
 lenth of step is  22
+one epsidode list is 11.0
+lenth of step is  38
+one epsidode list is 11.0
+lenth of step is  34
+one epsidode list is 11.0
+lenth of step is  32
+one epsidode list is 12.0
+lenth of step is  34
+one epsidode list is -11.0
+lenth of step is  34
+one epsidode list is -12.0
+lenth of step is  25
+one epsidode list is -10.0
+lenth of step is  34
+one epsidode list is -12.0
+lenth of step is  27
+one epsidode list is 12.0
+lenth of step is  27
+one epsidode list is -11.0
+lenth of step is  30
 one epsidode list is 13.0
-lenth of step is  17
+lenth of step is  24
+one epsidode list is 12.0
+lenth of step is  27
+one epsidode list is -13.0
+lenth of step is  24
+one epsidode list is 12.0
+lenth of step is  26
+one epsidode list is -11.0
+lenth of step is  44
+one epsidode list is 11.0
+lenth of step is  30
+one epsidode list is -10.0
+lenth of step is  31
+one epsidode list is -10.0
+lenth of step is  35
+one epsidode list is 13.0
+lenth of step is  24
+one epsidode list is -12.0
+lenth of step is  35
+one epsidode list is -10.0
+lenth of step is  39
+one epsidode list is -10.0
+lenth of step is  34
+one epsidode list is -11.0
+lenth of step is  33
+one epsidode list is 12.0
+lenth of step is  26
+one epsidode list is -11.0
+lenth of step is  27
+one epsidode list is 10.0
+lenth of step is  34
+one epsidode list is 11.0
+lenth of step is  31
+one epsidode list is 12.0
+lenth of step is  26
+one epsidode list is 10.0
+lenth of step is  35
+one epsidode list is 11.0
+lenth of step is  32
+one epsidode list is -12.0
+lenth of step is  30
+one epsidode list is 12.0
+lenth of step is  27
+one epsidode list is 13.0
+lenth of step is  24
+one epsidode list is 11.0
+lenth of step is  36
+one epsidode list is -14.0
+lenth of step is  18
+one epsidode list is 11.0
+lenth of step is  30
+one epsidode list is 10.0
+lenth of step is  34
+one epsidode list is 13.0
+lenth of step is  25
+one epsidode list is 12.0
+lenth of step is  26
+one epsidode list is -11.0
+lenth of step is  30
+one epsidode list is -13.0
+lenth of step is  23
+one epsidode list is -11.0
+lenth of step is  30
+one epsidode list is -11.0
+lenth of step is  28
+one epsidode list is 12.0
+lenth of step is  35
+one epsidode list is 10.0
+lenth of step is  33
+one epsidode list is 11.0
+lenth of step is  32
+one epsidode list is -11.0
+lenth of step is  28
+one epsidode list is 12.0
+lenth of step is  32
+one epsidode list is 13.0
+lenth of step is  24
+one epsidode list is -10.0
+lenth of step is  32
+one epsidode list is 10.0
+lenth of step is  36
+[1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 1.
+ 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 1. 1. 1. 1. 0. 1. 0. 0. 0. 0. 0. 1.
+ 1. 0. 0. 1. 1. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 1. 0. 1. 0. 1. 1. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0.
+ 1. 0. 0. 1. 1. 0. 1. 0. 0. 0. 1. 1. 1. 1. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0.
+ 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 1. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 1. 0. 0. 0. 1. 0. 0. 0. 0.
+ 0. 1. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0.
+ 1. 1. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 1.
+ 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1. 1. 1. 1. 0. 1. 0. 0. 1. 0. 1.
+ 0. 1. 1. 0. 1. 1. 1. 1. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 1. 0. 0. 0. 0.
+ 1. 1. 1. 1. 0. 0. 0. 1. 0. 0. 1. 0.]
+[0.0, 0.0, 0.3333333333333333, 0.5, 0.6, 0.6666666666666666, 0.7142857142857143, 0.75, 0.7777777777777778, 0.8, 0.8181818181818182, 0.8333333333333334, 0.7692307692307693, 0.7857142857142857, 0.7333333333333333, 0.75, 0.7647058823529411, 0.7777777777777778, 0.7894736842105263, 0.75, 0.7619047619047619, 0.7727272727272727, 0.782608695652174, 0.75, 0.76, 0.7692307692307693, 0.7777777777777778, 0.7857142857142857, 0.7586206896551724, 0.7666666666666667, 0.7419354838709677, 0.75, 0.7575757575757576, 0.7647058823529411, 0.7714285714285715, 0.7777777777777778, 0.7567567567567568, 0.7368421052631579, 0.717948717948718, 0.7, 0.7073170731707317, 0.6904761904761905, 0.6976744186046512, 0.7045454545454546, 0.7111111111111111, 0.717391304347826, 0.723404255319149, 0.7083333333333334, 0.6938775510204082, 0.7, 0.7058823529411765, 0.6923076923076923, 0.6792452830188679, 0.6851851851851852, 0.6727272727272727, 0.6785714285714286, 0.6842105263157895, 0.6896551724137931, 0.6949152542372882, 0.7, 0.6885245901639344, 0.6935483870967742, 0.6984126984126984, 0.703125, 0.7076923076923077, 0.7121212121212122, 0.7164179104477612, 0.7205882352941176, 0.7246376811594203, 0.7285714285714285, 0.7323943661971831, 0.7361111111111112, 0.7397260273972602, 0.7297297297297297, 0.7333333333333333, 0.7236842105263158, 0.7272727272727273, 0.717948717948718, 0.7088607594936709, 0.7125, 0.7160493827160493, 0.7195121951219512, 0.7108433734939759, 0.7142857142857143, 0.7176470588235294, 0.7093023255813954, 0.7126436781609196, 0.7159090909090909, 0.7191011235955056, 0.7222222222222222, 0.7142857142857143, 0.717391304347826, 0.7204301075268817, 0.723404255319149, 0.7263157894736842, 0.7291666666666666, 0.7216494845360825, 0.7244897959183674, 0.7272727272727273, 0.72, 0.7128712871287128, 0.7156862745098039, 0.7087378640776699, 0.7115384615384616, 0.7142857142857143, 0.7169811320754716, 0.7102803738317757, 0.7037037037037037, 0.6972477064220184, 0.6909090909090909, 0.6846846846846847, 0.6875, 0.6902654867256637, 0.6929824561403509, 0.6956521739130435, 0.6982758620689655, 0.6923076923076923, 0.6864406779661016, 0.6890756302521008, 0.6916666666666667, 0.6942148760330579, 0.6967213114754098, 0.6991869918699187, 0.6935483870967742, 0.696, 0.6984126984126984, 0.7007874015748031, 0.703125, 0.7054263565891473, 0.7076923076923077, 0.7099236641221374, 0.7045454545454546, 0.706766917293233, 0.7014925373134329, 0.7037037037037037, 0.7058823529411765, 0.7007299270072993, 0.6956521739130435, 0.697841726618705, 0.7, 0.7021276595744681, 0.704225352112676, 0.7062937062937062, 0.7083333333333334, 0.7103448275862069, 0.7123287671232876, 0.7142857142857143, 0.7162162162162162, 0.7114093959731543, 0.7133333333333334, 0.7086092715231788, 0.7105263157894737, 0.7124183006535948, 0.7142857142857143, 0.7161290322580646, 0.717948717948718, 0.7197452229299363, 0.7151898734177216, 0.7169811320754716, 0.71875, 0.7204968944099379, 0.7222222222222222, 0.7239263803680982, 0.7195121951219512, 0.7212121212121212, 0.7168674698795181, 0.718562874251497, 0.7202380952380952, 0.7218934911242604, 0.7235294117647059, 0.7251461988304093, 0.7267441860465116, 0.7283236994219653, 0.7298850574712644, 0.7314285714285714, 0.7272727272727273, 0.7288135593220338, 0.7303370786516854, 0.7318435754189944, 0.7333333333333333, 0.7348066298342542, 0.7307692307692307, 0.726775956284153, 0.7228260869565217, 0.7243243243243244, 0.7258064516129032, 0.7272727272727273, 0.723404255319149, 0.7248677248677249, 0.7263157894736842, 0.7277486910994765, 0.7291666666666666, 0.7305699481865285, 0.7268041237113402, 0.7282051282051282, 0.7295918367346939, 0.7309644670050761, 0.7323232323232324, 0.7336683417085427, 0.735, 0.736318407960199, 0.7326732673267327, 0.7339901477832512, 0.7352941176470589, 0.7365853658536585, 0.7378640776699029, 0.7391304347826086, 0.7403846153846154, 0.7416267942583732, 0.7428571428571429, 0.7440758293838863, 0.7452830188679245, 0.7464788732394366, 0.7476635514018691, 0.7441860465116279, 0.7453703703703703, 0.7419354838709677, 0.7385321100917431, 0.7397260273972602, 0.740909090909091, 0.7420814479638009, 0.7387387387387387, 0.7399103139013453, 0.7410714285714286, 0.7422222222222222, 0.7433628318584071, 0.7444933920704846, 0.7456140350877193, 0.7467248908296943, 0.7478260869565218, 0.7445887445887446, 0.7456896551724138, 0.7467811158798283, 0.7435897435897436, 0.7446808510638298, 0.7457627118644068, 0.7426160337552743, 0.7436974789915967, 0.7447698744769874, 0.7416666666666667, 0.7427385892116183, 0.743801652892562, 0.7448559670781894, 0.7459016393442623, 0.7428571428571429, 0.7439024390243902, 0.7408906882591093, 0.7419354838709677, 0.7429718875502008, 0.744, 0.7450199203187251, 0.746031746031746, 0.7470355731225297, 0.7440944881889764, 0.7411764705882353, 0.73828125, 0.7354085603112841, 0.7364341085271318, 0.7335907335907336, 0.7346153846153847, 0.735632183908046, 0.732824427480916, 0.7338403041825095, 0.7310606060606061, 0.7320754716981132, 0.7293233082706767, 0.7265917602996255, 0.7276119402985075, 0.724907063197026, 0.7222222222222222, 0.7195571955719557, 0.7169117647058824, 0.717948717948718, 0.7153284671532847, 0.7163636363636363, 0.717391304347826, 0.7184115523465704, 0.7194244604316546, 0.7204301075268817, 0.7178571428571429, 0.7188612099644128, 0.7198581560283688, 0.7208480565371025, 0.7183098591549296, 0.7192982456140351, 0.7202797202797203, 0.7212543554006968, 0.7222222222222222, 0.7197231833910035, 0.7172413793103448, 0.7147766323024055, 0.7123287671232876, 0.7133105802047781, 0.7142857142857143, 0.7152542372881356, 0.7128378378378378, 0.7138047138047138, 0.714765100671141, 0.7123745819397993, 0.7133333333333334]
+finish with average winning rate 0.7180533910280403
+finish with average epsiode 29.12
+finish learning with average acculative rewar 5.1466666666666665
+qtable is         Raise      Call
+0    0.000000  0.000000
+1    0.000000  0.000000
+2    0.000000  0.000000
+3    0.000000  0.000000
+4    0.000000  0.000000
+5    0.000000  0.000000
+6    0.000000  0.000000
+7    0.000000  0.000000
+8    0.000000  0.000000
+9    0.000000  0.000000
+10   0.000000  0.000000
+11   0.000000  0.000000
+12   0.000000  0.000000
+13   0.000000  0.000000
+14   0.000000  0.000000
+15   0.000000  0.000000
+16   0.000000  0.000000
+17   0.000000  0.000000
+18   0.000000  0.000000
+19   0.000000  0.000000
+20   0.000000  0.000000
+21   0.000000  0.000000
+22   0.000000  0.000000
+23   0.000000  0.000000
+24   0.000000  0.000000
+25   0.000000  0.000000
+26   0.000000  0.000000
+27   0.000000  0.000000
+28   0.000000  0.000000
+29   0.000000  0.000000
+30   0.000000  0.000000
+31   0.000000  0.000000
+32   0.000000  0.000000
+33   0.000000  0.000000
+34   0.000000  0.000000
+35   0.000000  0.000000
+36   0.000000  0.000000
+37   0.000000  0.000000
+38   0.000000  0.000000
+39   0.000000  0.000000
+40   0.000000  0.000000
+41   0.000000  0.000000
+42   0.000000  0.000000
+43   0.000000  0.000000
+44   0.000000  0.000000
+45   0.000000  0.000000
+46   0.000000  0.000000
+47   0.000000  0.000000
+48   0.000000  0.000000
+49   0.000000  0.000000
+50   0.000000  0.000000
+51   0.000000  0.000000
+52   0.000000  0.000000
+53   0.000000  0.000000
+54   0.000000  0.000000
+55   0.000000  0.000000
+56   0.000000  0.000000
+57   0.000000  0.000000
+58   0.000000  0.000000
+59   0.000000  0.000000
+60   0.000000  0.000000
+61   0.000000  0.000000
+62   0.000000  0.000000
+63   0.000000  0.000000
+64   0.000000  0.000000
+65   0.000000  2.516488
+66  -2.031318  0.007270
+67   0.000000  0.000000
+68   0.000000  0.000000
+69   1.990926  6.016501
+70   0.000000  0.000000
+71   0.000000  0.000000
+72   0.000000  0.000000
+73   0.000000  0.000000
+74   0.000000  0.000000
+75   0.000000  0.000000
+76   0.000000  0.000000
+77   0.000000  0.000000
+78   0.000000  0.000000
+79   0.000000  0.000000
+80   0.000000  0.000000
+81   0.000000  0.000000
+82   0.000000  0.000000
+83   0.000000  0.000000
+84   0.000000  0.000000
+85   0.000000  0.000000
+86   0.000000  0.000000
+87   0.000000  0.000000
+88   0.000000  0.000000
+89   0.000000  0.000000
+90   0.000000  0.000000
+91   0.000000  0.000000
+92   0.000000  0.000000
+93   0.000000  0.000000
+94   0.000000  0.000000
+95   0.000000  0.000000
+96   0.000000  0.000000
+97   0.000000  0.000000
+98   0.000000  0.000000
+99   0.000000  0.000000
+100  0.000000  0.000000
+101  0.000000  0.000000
+102  0.000000  0.000000
+103  0.000000  0.000000
+104  0.000000  0.000000
+105  0.000000  0.000000
+106  0.000000  0.000000
+107  0.000000  0.000000
+108  0.000000  0.000000
+109  0.000000  0.000000
+110  0.000000  0.000000
+111  0.000000  0.000000
+112  0.000000  0.000000
+113  0.000000  0.000000
+114  0.000000  0.000000
+115  0.000000  0.000000
+116  0.000000  0.000000
+117  0.000000  0.000000
+118  0.000000  0.000000
+119  0.000000  0.000000
+120  0.000000  0.000000
+121  0.000000  0.000000
+122  0.000000  0.000000
+123  0.000000  0.000000
+124  0.000000  0.000000
+125  0.000000  0.000000
+126 -2.016313 -2.205906
+127  0.000000 -1.046358
+128  0.322367 -2.066004
+129  0.000000  0.000000
+130  0.000000  0.000000
+131  0.000000 -0.105411
+132 -0.733313 -3.822944
+133  0.000000  0.000000
+134 -0.563424  0.000000
+135  0.000000  0.000000
+136  0.000000  0.000000
+137 -7.098371 -2.531561
+138  0.000000  0.000000
+139  0.000000  0.000000
+140 -0.650182  0.000000
+141  0.000000  0.000000
+142  0.000000  0.000000
+143  0.000000  0.000000
+144  0.000000  0.000000
+145  0.000000  0.000000
+146  0.000000  0.000000
+147  0.000000  0.000000
+148  0.000000  0.000000
+149  0.000000  0.000000
+150  0.000000  0.000000
+151  0.000000  0.000000
+152  0.000000  0.000000
+153  0.000000  0.000000
+154  0.000000  0.000000
+155  0.000000  0.000000
+156  0.000000  0.000000
+157  0.000000  0.000000
+158  0.000000  0.000000
+159  0.000000  0.000000
+160  0.000000  0.000000
+161  0.000000  0.000000
+162  0.000000  0.000000
+163  0.000000  0.000000
+164  0.000000  0.000000
+165  0.000000  0.000000
+166  0.000000  0.000000
+167  0.000000  0.000000
+168  0.000000  2.827211
+169  0.000000  0.000000
+170  0.000000  4.941049
+171  0.085932  4.379707
+172  0.000000  0.000000
+173  0.000000  0.000000
+174  2.811583  6.297142
+175  0.000000  0.000000
+176  0.000000  0.000000
+177  0.000000  0.000000
+178  0.000000  0.000000
+179  0.579186  0.000000
+180  0.000000  0.000000
+181  0.000000  0.000000
+182  0.000000  0.000000
+183  0.000000  0.000000
+184  0.000000  0.000000
+185  0.000000  0.000000
+186  0.000000  0.000000
+187  0.000000  0.000000
+188  0.000000  0.285576
+189  0.000000  0.000000
+190  0.000000  0.000000
+191  0.000000  0.000000
+192  0.000000  0.000000
+193  0.000000  0.000000
+194  0.000000  0.000000
+195  0.000000  0.000000
+196  0.000000  0.000000
+197  0.000000  0.000000
+198  0.000000  0.000000
+199  0.000000  0.000000
+200  0.000000  0.000000
+201  0.000000  0.000000
+202  0.000000  0.000000
+203  0.000000  0.000000
+204  0.000000  0.000000
+205  0.000000  0.000000
+206  0.000000  0.000000
+207  0.000000  0.000000
+208  0.000000  0.000000
+209  0.000000  0.000000
+210  0.000000  0.000000
+211  0.000000  0.000000
+212  0.000000  0.000000
+213  0.000000  0.000000
+214  0.000000  0.000000
+215  0.000000  0.000000
+216  0.000000  0.000000
+217  0.000000  0.000000
+218  0.000000  0.000000
+219  0.000000  0.000000
+220  0.000000  0.000000
+221  0.000000  0.000000
+222  0.000000  0.000000
+223  0.000000  0.000000
+224  0.000000  0.000000
+225  0.000000  0.000000
+226  0.000000  0.000000
+227  0.000000  0.000000
+228  0.000000  0.000000
+229  0.000000  0.000000
+230  0.000000  0.000000
+231 -0.319481  2.511221
+232  0.000000  0.385815
+233 -0.942075  1.384460
+234  0.000000  0.000000
+235  0.000000  0.000000
+236  0.000000  1.544887
+237 -1.604164 -1.761650
+238  0.000000  0.000000
+239  0.000000  0.000000
+240  0.000000  0.000000
+241  0.000000  0.000000
+242 -0.163585  0.378803
+243  0.000000  0.000000
+244  0.000000  0.000000
+245  0.695903  0.000000
+246  0.000000  0.000000
+247  0.000000  0.000000
+248  0.000000  0.000000
+249  0.000000  0.000000
+250  0.000000  0.000000
+251  0.000000  0.000000
+252  0.000000  3.076536
+253  0.000000  0.000000
+254  0.000000  3.878375
+255  6.848742  7.149556
+256  0.000000  0.000000
+257  0.000000  0.000000
+258  1.287383  5.377207
+259  0.000000  0.000000
+260  0.000000  0.000000
+261  0.000000  0.000000
+262  0.000000  0.000000
+263  0.603637  1.238275
+264  0.000000  0.000000
+265  0.000000  0.000000
+266  0.000000  0.000000
+267  0.000000  0.000000
+268  0.000000  0.000000
+269  0.000000  0.000000
+270  0.000000  0.000000
+271  0.000000  0.000000
+272  1.858915  1.008773
+273 -4.070743 -3.512339
+274 -1.379952 -1.699933
+275  0.000000 -0.531441
+276  0.000000  0.000000
+277  0.000000  0.000000
+278 -0.755947  0.070914
+279  0.000000  0.000000
+280  0.000000  0.000000
+281 -2.767784 -2.464881
+282  0.000000  0.000000
+283 -0.398243  0.000000
+284  0.000000  0.000000
+285  0.000000  0.000000
+286  0.000000  0.000000
+287 -2.756027 -1.880420
+288  0.000000  0.000000
+289 -0.834933  0.000000
+290  0.000000  0.000000
+291  0.000000  0.000000
+292  0.000000  0.000000
+293  0.000000 -0.341975
+294  2.293667  2.368053
+295  0.000000  1.730043
+296  0.573232  2.658751
+297  0.000000  0.000000
+298  0.000000  0.000000
+299  0.000000  1.612432
+300  1.273720 -0.808887
+301  0.000000  0.000000
+302  1.831878  0.000000
+303  0.000000  0.000000
+304  0.000000  0.000000
+305  1.919195  1.197625
+306  0.000000  0.000000
+307  0.000000  0.000000
+308  0.771504  0.232984
+309  0.000000  0.000000
+310  0.000000  0.000000
+311  0.000000  0.000000
+312  0.000000  0.000000
+313  0.000000  0.000000
+314  1.115255  0.000000
+315  0.000000  3.799881
+316  0.000000  0.000000
+317  0.000000  5.319890
+318  4.948364  1.662005
+319  0.000000  0.000000
+320  0.000000  0.000000
+321  3.932746  5.976192
+322  0.000000  0.000000
+323  0.000000  0.000000
+324  0.000000  0.000000
+325  0.000000  0.000000
+326  0.177724  2.826107
+327  0.000000  0.000000
+328  0.000000  0.000000
+329  0.000000  0.000000
+330  0.000000  0.000000
+331  0.000000  0.000000
+332  0.000000  0.000000
+333  0.000000  0.000000
+334  0.000000  0.000000
+335  0.659290  1.587915
+336 -4.878673 -4.339611
+337  0.000000  0.000000
+338 -2.150365 -2.896707
+339  0.000000  0.000000
+340  0.000000  0.000000
+341  0.000000  0.000000
+342  0.000000  0.000000
+343  0.000000  0.000000
+344 -1.676741 -1.709653
+345  0.000000  0.000000
+346 -4.137940 -2.198050
+347 -0.656100  0.000000
+348  0.000000  0.000000
+349  0.000000  0.000000
+350  0.000000  0.000000
+351  0.000000  0.000000
+352 -5.030501  0.000000
+353 -0.068369  0.000000
+354  0.000000  0.000000
+355  0.000000  0.000000
+356  0.000000  0.000000
+357  1.565695  0.360328
+358 -0.593875 -0.185943
+359  0.000000  1.230781
+360  0.000000  0.000000
+361  0.000000  0.000000
+362  1.303886  1.228421
+363  0.000000  0.000000
+364  0.000000  0.000000
+365 -1.262708  0.234887
+366  0.000000  0.000000
+367 -0.404684  0.000000
+368  0.000000  0.000000
+369  0.000000  0.000000
+370  0.000000  0.000000
+371  0.585637 -0.979481
+372  0.000000  0.000000
+373 -0.079790  0.000000
+374  0.000000  0.000000
+375  0.000000  0.000000
+376  0.000000  0.000000
+377  0.000000 -0.682370
+378  0.000000  0.000000
+379  0.000000  0.000000
+380  0.000000  0.000000
+381  0.000000  0.000000
+382  0.000000  0.000000
+383  0.000000  0.000000
+384  0.000000  0.000000
+385  0.000000  0.000000
+386  0.000000  0.000000
+387  0.000000  0.000000
+388  0.000000  0.000000
+389  0.000000  0.000000
+390  0.000000  0.000000
+391  0.000000  0.000000
+392  0.000000  0.000000
+393  0.000000  0.000000
+394  0.000000  0.000000
+395  0.000000  0.000000
+396  0.000000  0.000000
+397  0.000000  0.000000
+398  0.000000  0.000000
+399  0.000000  0.000000
+400  0.000000  0.000000
+401  0.000000  0.000000
+402  0.000000  0.000000
+403  0.000000  0.000000
+404  0.000000  0.000000
+405  0.000000  0.000000
+406  0.000000  0.000000
+407  0.000000  0.000000
+408  0.000000  0.000000
+409  0.000000  0.000000
+410  0.000000  0.000000
+411  0.000000  0.000000
+412  0.000000  0.000000
+413  0.000000  0.000000
+414  0.000000  0.000000
+415  0.000000  0.000000
+416  0.000000  0.000000
+417  0.000000  0.000000
+418  0.000000  0.000000
+419  0.000000  0.000000
+420  0.039813  0.037319
+421  1.516718  1.652658
+422  0.000000  0.595976
+423  0.000000  0.000000
+424  0.000000  0.000000
+425  1.069315  1.636886
+426  0.000000  0.000000
+427  0.000000  0.000000
+428  2.058810  0.832212
+429  0.000000  0.000000
+430  0.692137  0.000000
+431  0.000000  0.000000
+432  0.000000  0.000000
+433  0.000000  0.000000
+434 -0.143478  0.132733
+435  0.000000  0.000000
+436  0.345111  0.000000
+437  0.000000  0.000000
+438  0.000000  0.000000
+439  0.000000  0.000000
+440  0.199487  0.032179
+441 -1.665956 -1.235733
+442  0.000000  0.000000
+443 -0.249425 -1.647426
+444  0.000000  0.236262
+445  0.000000  0.000000
+446  0.000000  0.000000
+447  0.000000  0.000000
+448  0.000000  0.000000
+449 -0.092553  0.607801
+450  0.000000  0.000000
+451 -1.995119 -0.289880
+452  0.000000  0.000000
+453  0.000000  0.000000
+454  0.000000  0.000000
+455  0.000000  0.000000
+456  0.000000  0.000000
+457 -0.710057  0.000000
+458 -0.470725  0.000000
+459  0.000000  0.000000
+460  0.000000  0.000000
+461  0.000000 -0.292585
+462  2.516027  4.129679
+463  0.000000  3.224157
+464  3.917776  4.726968
+465  0.000000  0.000000
+466  0.000000  0.000000
+467  0.000000  1.890255
+468  3.165035  0.870577
+469  0.000000  0.000000
+470  0.568766  0.984137
+471  0.000000  0.000000
+472  0.000000  0.000000
+473  3.206526  2.820713
+474  0.000000  0.000000
+475  0.000000  0.000000
+476  1.637830  1.200769
+477  0.000000  0.000000
+478  0.000000  0.000000
+479  0.000000  0.000000
+480  0.000000  0.000000
+481  0.000000  0.000000
+482  2.993864  0.000000
+483 -0.113897 -0.377933
+484  0.000000  0.000000
+485  0.000000  0.000000
+486 -0.041286  0.029276
+487 -0.810000 -1.000000
+488  0.000000  0.000000
+489  0.000000  0.000000
+490  0.000000  0.000000
+491  0.000000  0.000000
+492  0.000000  0.000000
+493 -0.931091 -1.189128
+494 -2.465153  0.000000
+495  0.000000  0.000000
+496  0.000000  0.000000
+497  0.000000  0.000000
+498  0.000000  0.000000
+499  0.000000  0.000000
+500 -1.108618  0.000000
+501  0.000000  0.000000
+502  0.000000  0.000000
+503  0.000000  0.000000
+504  0.000000  1.645903
+505  0.000000  0.000000
+506  0.000000  2.362535
+507  3.624876  1.900000
+508  0.000000  0.000000
+509  0.000000  0.000000
+510  3.578288  3.586953
+511  0.000000  0.000000
+512  0.000000  0.000000
+513  0.000000  0.000000
+514  0.000000  0.000000
+515  0.000000  0.114884
+516  0.000000  0.000000
+517  0.000000  0.000000
+518  0.000000  0.000000
+519  0.000000  0.000000
+520  0.000000  0.000000
+521  0.000000  0.000000
+522  0.000000  0.000000
+523  0.000000  0.000000
+524  0.000000  1.039417
+525 -0.253324  0.582565
+526  0.000000  0.000000
+527  0.025339 -0.082614
+528  0.000000  0.316392
+529  0.000000  0.000000
+530  0.000000  0.000000
+531  0.000000  0.000000
+532  0.000000  0.000000
+533  0.497973  0.834361
+534  0.000000  0.000000
+535  1.127861  0.071374
+536 -0.309699  0.000000
+537  0.000000  0.000000
+538  0.000000  0.000000
+539  0.000000  0.000000
+540  0.000000  0.000000
+541 -0.486512  0.000000
+542  0.254543  0.000000
+543  0.000000  0.000000
+544  0.000000  0.000000
+545  0.000000 -0.444796
+546 -0.098054 -0.336306
+547  0.000000  0.000000
+548  0.000000  0.000000
+549  0.118933  0.222715
+550 -0.042518 -0.046989
+551  0.000000  0.000000
+552  0.000000  0.000000
+553  0.000000  0.000000
+554  0.000000  0.000000
+555  0.000000  0.000000
+556 -0.321367 -0.272891
+557 -0.040258  0.000000
+558  0.000000  0.000000
+559  0.000000  0.000000
+560  0.000000  0.000000
+561  0.000000  0.000000
+562  0.000000  0.000000
+563 -0.974788  0.000000
+564  0.000000  0.000000
+565  0.000000  0.000000
+566  0.000000  0.000000
+567  1.288330  2.190903
+568  0.000000  0.000000
+569  1.972293  2.772883
+570  0.000000  0.000000
+571  0.000000  0.000000
+572  0.000000  0.711964
+573  1.093954  0.798021
+574  0.000000  0.000000
+575  0.000000  0.453218
+576  0.000000  0.000000
+577  0.000000  0.000000
+578  1.322195  0.286700
+579  0.000000  0.000000
+580  0.000000  0.000000
+581  0.000000  0.138889
+582  0.000000  0.000000
+583  0.000000  0.000000
+584  0.000000  0.000000
+585  0.000000  0.000000
+586  0.000000  0.000000
+587  1.208885  0.290582
+588  1.355793  2.735946
+589  2.217147  3.114869
+590  0.000000  1.630197
+591  0.000000  0.000000
+592  0.000000  0.000000
+593  1.832442  1.224550
+594  0.000000  0.000000
+595  0.000000  0.000000
+596  2.503820  2.054578
+597  0.000000  0.000000
+598  1.308221  0.000000
+599  0.000000  0.000000
+600  0.000000  0.000000
+601  0.000000  0.000000
+602  1.594694  0.995894
+603  0.000000  0.000000
+604  2.102091  0.000000
+605  0.000000  0.000000
+606  0.000000  0.000000
+607  0.000000  0.000000
+608  1.645673 -0.063933
+609  0.044401 -0.189579
+610  0.000000  0.000000
+611  0.000000  0.000000
+612  0.620658  0.775750
+613 -0.196299 -0.051259
+614  0.000000  0.000000
+615  0.000000  0.000000
+616  0.000000  0.000000
+617  0.000000  0.000000
+618  0.000000  0.000000
+619  0.334497  0.588939
+620 -0.440294  0.000000
+621  0.000000  0.000000
+622  0.000000  0.000000
+623  0.000000  0.000000
+624  0.000000  0.000000
+625  0.000000  0.000000
+626  0.154910  0.000000
+627  0.000000  0.000000
+628  0.000000  0.000000
+629  0.000000  0.000000
+630  1.308986  0.967366
+631  0.000000  0.000000
+632  0.628227  0.697826
+633  0.000000  0.807178
+634  0.000000  0.000000
+635  0.000000  0.000000
+636  0.000000  0.000000
+637  0.000000  0.000000
+638  1.036769  1.153201
+639  0.000000  0.000000
+640  1.955080  0.591172
+641  0.856547  0.000000
+642  0.000000  0.000000
+643  0.000000  0.000000
+644  0.000000  0.000000
+645  0.000000  0.000000
+646  1.428614  0.609824
+647  0.761928  0.000000
+648  0.000000  0.000000
+649  0.000000  0.000000
+650  0.000000 -0.038217
+651  1.145656  1.553323
+652  0.827560  0.030199
+653  0.000000  0.983941
+654  0.000000  0.000000
+655  0.000000  0.000000
+656  1.158154  0.978328
+657  0.000000  0.000000
+658  0.000000  0.000000
+659  0.708271  0.694106
+660  0.000000  0.000000
+661  0.000000  0.260762
+662  0.000000  0.000000
+663  0.000000  0.000000
+664  0.000000  0.000000
+665  1.132540  0.475712
+666  0.000000  0.000000
+667  0.000000  0.526753
+668  0.000000  0.000000
+669  0.000000  0.000000
+670  0.000000  0.000000
+671  0.805569  0.286208
+672  0.950308  1.177654
+673  0.000000  0.000000
+674  1.126963  0.887901
+675  0.000000 -0.059952
+676  0.000000  0.314143
+677  0.000000  0.000000
+678  0.000000  0.000000
+679  0.000000  0.000000
+680  0.948423  0.267687
+681  0.000000  0.000000
+682  0.498277  0.341901
+683  0.479097  0.000000
+684  0.000000  0.000000
+685  0.000000  0.000000
+686  0.000000  0.000000
+687  0.000000  0.000000
+688  0.939961  0.593619
+689  0.809826  0.000000
+690  0.000000  0.000000
+691  0.000000  0.000000
+692  0.763671 -0.028261
+693  0.634052  0.882451
+694  0.000000  0.000000
+695  0.000000  0.000000
+696  0.770096  1.068049
+697  0.250008  0.000050
+698  0.000000  0.000000
+699  0.000000  0.000000
+700  0.000000  0.000000
+701  0.000000  0.000000
+702  0.000000  0.000000
+703  0.683179  0.807122
+704  1.043444  0.099098
+705  0.000000  0.000000
+706  0.000000  0.000000
+707  0.000000  0.000000
+708  0.000000  0.000000
+709  0.000000  0.000000
+710  0.435669  0.251629
+711  0.000000  0.000000
+712  0.000000  0.000000
+713  0.000000  0.096345
+714  0.570833  0.792818
+715  0.000000  0.000000
+716  0.000000  0.000000
+717  0.182528  0.108703
+718  0.256864 -0.623360
+719  0.000000  0.000000
+720  0.000000  0.000000
+721  0.000000  0.000000
+722  0.000000  0.000000
+723  0.000000  0.000000
+724  0.322487  0.243576
+725  0.738710 -0.035713
+726  0.000000  0.000000
+727  0.000000  0.000000
+728  0.000000  0.000000
+729  0.000000  0.000000
+730  0.000000  0.000000
+731  0.842743 -0.220741
+732  0.000000  0.000000
+733  0.000000  0.000000
+734  0.073046  0.022772
+[[  0. 214.]
+ [  1.  86.]]

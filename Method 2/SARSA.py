@@ -395,7 +395,8 @@ def updateQ(play, Qmat, reward, alpha=0.1, discount=0.9):
 
         oneStepReward = reward.loc[int(float(prevState)), (prevAction, int(float(currState)))]
         # print('the one step reward is {}'.format(oneStepReward))
-        valueEachRound.append(oneStepReward * discount ** (k-1))
+        # valueEachRound.append(oneStepReward * discount ** (k-1))
+        valueEachRound.append(oneStepReward)
 
     return Qmat, sum(valueEachRound)
 
@@ -495,7 +496,7 @@ rewar_list = []
 episode_list = []
 its = 300
 import sys
-sys.stdout = open('Sarsa.txt', 'w')
+sys.stdout = open('Sarsa1.txt', 'w')
 
 winners = np.zeros((its,))
 times = 0
